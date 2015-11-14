@@ -33,6 +33,11 @@ body {
     color: #FF8D01;
 }
 
+.text-greyed {
+    color: #f7f7f7;
+    text-decoration: none !important;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -58,7 +63,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503;
+    color: #FF8D01;
 }
 
 h1,
